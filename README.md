@@ -8,7 +8,7 @@
 
 I did not win the contest however my second article won special appreciation by the Geeks-For-Geeks team and my name got featured on their [website](http://www.geeksforgeeks.org/certificates/)
 
-![Special Appreciation Screenshot](https://raw.githubusercontent.com/palash25/articles/master/assets/img.jpg)
+![Special Appreciation Screenshot](https://raw.githubusercontent.com/palash25/articles/master/assets/img.png)
 
 ##### Articles Written During Internship (May 2017 - Present)
 3. [Understanding ReDOS Attack](http://www.geeksforgeeks.org/understanding-redos-attack/)
