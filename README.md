@@ -18,4 +18,4 @@ I did not win the contest however my second article won special appreciation fro
 7. [Bead Sort | A Natural Sorting Algorithm](http://www.geeksforgeeks.org/bead-sort-natural-sorting-algorithm/)
 8. [Implementing Atbash Cipher](http://www.geeksforgeeks.org/implementing-atbash-cipher/)  
 9. [How to begin Contributing to DuckDuckGo’s Open Source Community](http://www.geeksforgeeks.org/begin-contributing-duckduckgos-open-source-community/)
-10.[Passwords | Entropy and Cracking](http://www.geeksforgeeks.org/passwords-entropy-cracking/)
+10. [Passwords | Entropy and Cracking](http://www.geeksforgeeks.org/passwords-entropy-cracking/)
