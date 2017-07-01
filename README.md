@@ -6,9 +6,13 @@
 1. [Hygienic Macros : An Introduction](http://www.geeksforgeeks.org/hygienic-macros-introduction/)
 2. [Printing "GEEKS FOR GEEKS" in Brainfuck](http://www.geeksforgeeks.org/printing-geeks-geeks-brainfuck/)
 
+----
+
 I did not win the contest however my second article won special appreciation from the Geeks-For-Geeks team and my name got featured on their [website](http://www.geeksforgeeks.org/certificates/)
 
 ![Special Appreciation Screenshot](https://raw.githubusercontent.com/palash25/articles/master/assets/img.png)
+
+------
 
 ##### Articles Written During Internship (May 2017 - Present)
 3. [Understanding ReDOS Attack](http://www.geeksforgeeks.org/understanding-redos-attack/)
