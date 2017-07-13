@@ -27,3 +27,4 @@ I did not win the contest however my second article won special appreciation fro
 12. [Morse Code Translator in Python](http://www.geeksforgeeks.org/morse-code-translator-python/)
 13. [Onion Routing](http://www.geeksforgeeks.org/onion-routing/)
 14. [Josephus Problem Using Bit Magic](http://www.geeksforgeeks.org/josephus-problem-using-bit-magic/)
+15. [Trabb Pardo–Knuth Algorithm](http://www.geeksforgeeks.org/trabb-pardo-knuth-algorithm/)
