@@ -28,3 +28,4 @@ I did not win the contest however my second article won special appreciation fro
 13. [Onion Routing](http://www.geeksforgeeks.org/onion-routing/)
 14. [Josephus Problem Using Bit Magic](http://www.geeksforgeeks.org/josephus-problem-using-bit-magic/)
 15. [Trabb Pardo–Knuth Algorithm](http://www.geeksforgeeks.org/trabb-pardo-knuth-algorithm/)
+16. [Program to print its own name as output](http://www.geeksforgeeks.org/program-to-print-its-own-name-as-output/)
