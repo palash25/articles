@@ -31,3 +31,4 @@ I did not win the contest however my second article won special appreciation fro
 16. [Program to print its own name as output](http://www.geeksforgeeks.org/program-to-print-its-own-name-as-output/)
 17. [Scraping And Finding Ordered Words In A Dictionary using Python](http://www.geeksforgeeks.org/scraping-and-finding-ordered-words-in-a-dictionary-using-python/)
 18. [Pangrammatic Lipogram Checker](http://www.geeksforgeeks.org/check-string-pangrammatic-lipogram/)
+19. [Mutual Recursion with example of Hofstadter Female and Male sequences](http://www.geeksforgeeks.org/mutual-recursion-example-hofstadter-female-male-sequences/)
