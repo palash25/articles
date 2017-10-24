@@ -3,12 +3,6 @@
 #### This repository contains my articles published on [Geeks For Geeks](www.geeksforgeeks.com) in the order of the dates they were published on.
 
 ##### Technical Scripter Contest (March 2017)
-1. [Hygienic Macros : An Introduction](http://www.geeksforgeeks.org/hygienic-macros-introduction/)
-2. [Printing "GEEKS FOR GEEKS" in Brainfuck](http://www.geeksforgeeks.org/printing-geeks-geeks-brainfuck/)
-
-----
-
-I did not win the contest however my second article won special appreciation from the Geeks-For-Geeks team and my name got featured on their [website](http://www.geeksforgeeks.org/certificates/)
 
 ![Special Appreciation Screenshot](https://raw.githubusercontent.com/palash25/articles/master/assets/img.png)
 
