@@ -24,7 +24,7 @@ I did not win the contest however my second article won special appreciation fro
 9. [How to begin Contributing to DuckDuckGo’s Open Source Community](http://www.geeksforgeeks.org/begin-contributing-duckduckgos-open-source-community/)
 10. [Passwords | Entropy and Cracking](http://www.geeksforgeeks.org/passwords-entropy-cracking/)
 11. [Baconian Cipher](http://www.geeksforgeeks.org/baconian-cipher/)
-12. [Morse Code Translator in Python](http://www.geeksforgeeks.org/morse-code-translator-python/)
+12. {Morse Code Translator in Python}(http://www.geeksforgeeks.org/morse-code-translator-python/)
 13. [Onion Routing](http://www.geeksforgeeks.org/onion-routing/)
 14. [Josephus Problem Using Bit Magic](http://www.geeksforgeeks.org/josephus-problem-using-bit-magic/)
 15. [Trabb Pardo–Knuth Algorithm](http://www.geeksforgeeks.org/trabb-pardo-knuth-algorithm/)
@@ -33,3 +33,4 @@ I did not win the contest however my second article won special appreciation fro
 18. [Pangrammatic Lipogram Checker](http://www.geeksforgeeks.org/check-string-pangrammatic-lipogram/)
 19. [Mutual Recursion with example of Hofstadter Female and Male sequences](http://www.geeksforgeeks.org/mutual-recursion-example-hofstadter-female-male-sequences/)
 20. [Circle Sort](http://www.geeksforgeeks.org/circle-sort/)
+
