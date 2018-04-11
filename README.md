@@ -1,7 +1,7 @@
-### Articles And Blog Posts
+## Articles And Blog Posts
+This repository contains my articles published on various blogging sites in the order of the dates they were published on.
 
-#### This repository contains my articles published on [Geeks For Geeks](www.geeksforgeeks.com) in the order of the dates they were published on.
-
+### GeeksforGeeks
 ##### Technical Scripter Contest (March 2017)
 1. [Hygienic Macros : An Introduction](http://www.geeksforgeeks.org/hygienic-macros-introduction/)
 2. [Printing "GEEKS FOR GEEKS" in Brainfuck](http://www.geeksforgeeks.org/printing-geeks-geeks-brainfuck/)
@@ -33,3 +33,6 @@ I did not win the contest however my second article won special appreciation fro
 18. [Pangrammatic Lipogram Checker](http://www.geeksforgeeks.org/check-string-pangrammatic-lipogram/)
 19. [Mutual Recursion with example of Hofstadter Female and Male sequences](http://www.geeksforgeeks.org/mutual-recursion-example-hofstadter-female-male-sequences/)
 20. [Circle Sort](http://www.geeksforgeeks.org/circle-sort/)
+
+## Opensource.com (RedHat)
+1. [How to choose your first open source project](https://opensource.com/article/18/4/get-started-open-source-project)
