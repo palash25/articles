@@ -34,5 +34,5 @@ I did not win the contest however my second article won special appreciation fro
 19. [Mutual Recursion with example of Hofstadter Female and Male sequences](http://www.geeksforgeeks.org/mutual-recursion-example-hofstadter-female-male-sequences/)
 20. [Circle Sort](http://www.geeksforgeeks.org/circle-sort/)
 
-## Opensource.com (RedHat)
+### Opensource.com (RedHat)
 1. [How to choose your first open source project](https://opensource.com/article/18/4/get-started-open-source-project)
