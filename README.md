@@ -36,3 +36,7 @@ I did not win the contest however my second article won special appreciation fro
 
 ### Opensource.com (RedHat)
 1. [How to choose your first open source project](https://opensource.com/article/18/4/get-started-open-source-project)
+
+### Medium
+#### GSOC '18 with coala
+1. [Community Bonding](https://medium.com/gsoc-with-coala/gsoc-community-bonding-5ac9005d6289)
